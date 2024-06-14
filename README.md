@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anjana Sathwika Reddy Depa 🌟
+# Hi there! ✨ I'm Anjana Sathwika Reddy Depa ⚡️
 
 ## About Me ℹ️
 I'm an aspiring technologist 🚀 with a passion for Passion for technology and a quest to explore its possibilities. I thrive on Innovation and Creativity💡. My journey in BTech[ECE] has equipped me with C, C++, JAVA, PYTHON, DBMS, embedded systems, Signal processing and various skills 🛠️, allowing me to Contribute🌍.
