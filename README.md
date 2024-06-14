@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjana Sathwika Reddy Depa</h1>
+<h1 align="center">Hi ✨, I'm Anjana Sathwika Reddy Depa⚡️</h1>
 <h3 align="center">An Aspiring Technologist from India</h3>
 
 <p align="center">I'm passionate about technology, innovation, and exploring its endless possibilities. Currently pursuing BTech in Electronics and Communication Engineering (ECE), where I'm gaining expertise in C, C++, JAVA, PYTHON, DBMS, embedded systems, Signal processing, and more.</p>
